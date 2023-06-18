@@ -28,6 +28,7 @@ Data used for training DL models in paper experiments is stored at
 ```
 @article{GUO2023128828,
       title = {Reformulated geostatistical approach with a Fourier neural operator surrogate model for inverse modeling of hydraulic tomography},
+      DOI = {DOI: 10.5281/zenodo.8052496},
       journal = {under review},
 }
 ```
